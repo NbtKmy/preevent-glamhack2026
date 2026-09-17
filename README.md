@@ -8,7 +8,7 @@ Get ready to hack! [GLAMhack 2026](https://hack.glam.opendata.ch/) is a weekend 
 
 ## Program (draft)
 
-### Opening (5 min)
+### Opening Talk - Lionel Walter (OpenGLAM)(5 min)
 
 ### Inputs (70-80 min)
 
