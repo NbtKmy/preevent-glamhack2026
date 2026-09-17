@@ -4,7 +4,7 @@ This is the repository for the Pre-Event GLAMhack 2026 - a chance to get ready f
 
 ## Description
 
-Get ready to hack! [GLAMhack 2026](https://hack.glam.opendata.ch/) is a weekend of innovation, where people from all over come together to develop game-changing solutions using open data from galleries, libraries, archives, and museums. But we don't want you to wait until the last minute to get started. That's why we're hosting a pre-event, where we'll discuss the latest tech trends, explore exciting datasets, and start brainstorming project ideas. The more prepared you are, the more you'll achieve during the hackathon!
+Get ready to hack! [GLAMhack 2026](https://opendata.ch/events/glamhack2026/) is a weekend of innovation, where people from all over come together to develop game-changing solutions using open data from galleries, libraries, archives, and museums. But we don't want you to wait until the last minute to get started. That's why we're hosting a pre-event, where we'll discuss the latest tech trends, explore exciting datasets, and start brainstorming project ideas. The more prepared you are, the more you'll achieve during the hackathon!
 
 ## Program (draft)
 
