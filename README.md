@@ -15,8 +15,8 @@ Get ready to hack! [GLAMhack 2026](https://hack.glam.opendata.ch/) is a weekend 
 
 - Open GLAM datasets: where to find them - Pierre-Louis
 - Datenset der ZB in Vorbereitung: Photochrom-Sammlung - Elias
-- Running Small AI Models in the Browser - ONNX and ONNX Runtime Web : [ONNX](https://onnx.ai/) and [ONNX Runtime Web](https://onnxruntime.ai/docs/tutorials/web/) - Nobu ([see the presentation](https://nbtkmy.github.io/preevent-glamhack2026/presentations/nobu/onnx.html))
-- Georeferencing with IIIF : Using the [Allmaps Plugin for MapLibre GL](https://allmaps.org/docs/packages/maplibre/) - Nobu
+- Running Small AI Models in the Browser - ONNX and ONNX Runtime Web : [ONNX](https://onnx.ai/) and [ONNX Runtime Web](https://onnxruntime.ai/docs/tutorials/web/) - Nobu ([Presentation](https://nbtkmy.github.io/preevent-glamhack2026/presentations/nobu/onnx.html))
+- Georeferencing with IIIF : Using the [Allmaps Plugin for MapLibre GL](https://allmaps.org/docs/packages/maplibre/) - Nobu ([Presentation](https://nbtkmy.github.io/preevent-glamhack2026/presentations/nobu/allmaps.html))
 - Explore datasets without downloading them – Querying Swiss open data straight from an AI chat (https://github.com/malkreide/swiss-public-data-mcp ) - Hayal Oezkan
 
 ### Discussion (40 min)
